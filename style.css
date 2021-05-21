@@ -1,0 +1,21 @@
+body {
+    color:crimson;
+    background-color: rgb(202, 198, 255);
+
+}
+
+.overaction {
+
+    font-weight: bold;
+    color:crimson;
+    font-size:35px ;
+    width:80%;
+}
+
+#camera { 
+
+    border:2px  dashed black;
+    
+    width : 350px;
+    height :300px;
+}
